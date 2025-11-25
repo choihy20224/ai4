@@ -74,11 +74,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-    {"texts": ["중국식 냉면은 맛있어"], {"images": ["https://www.esquirekorea.co.kr/resources_old/online/org_online_image/eq/71c93efd-352d-4fb4-8a98-dd1b51475442.jpg"]
-    {"texts": ["짜장면은 맛있어"], {"images": ["https://img-cf.kurly.com/hdims/resize/%3E720x/quality/90/src/shop/data/goodsview/20230628/gv00000707399_1.jpg"]
-    {"texts": ["짬뽕은 맛있어"], {"images": ["https://recipe1.ezmember.co.kr/cache/recipe/2017/06/19/2756808e5603db7a18c4f5ee9a699ee41.jpg"]
-    {"texts": ["탕수육은 맛있"], {"images": ["https://godomall.speedycdn.net/ec5d2a1c8483712efb957784c858b320/goods/1000008075/image/add3/1000008075_add3_019.jpg"]
-}
+    {"texts": ["중국식 냉면은 맛있어"], "images": ["https://www.esquirekorea.co.kr/resources_old/online/org_online_image/eq/71c93efd-352d-4fb4-8a98-dd1b51475442.jpg"]
+    {"texts": ["짜장면은 맛있어"], "images": ["https://m.health.chosun.com/site/data/img_dir/2024/08/02/2024080201848_0.jpg"]
+    {"texts": ["짬뽕은 맛있어"], "images": ["https://recipe1.ezmember.co.kr/cache/recipe/2017/06/19/2756808e5603db7a18c4f5ee9a699ee41.jpg"]
+    {"texts": ["탕수육은 맛있"], "images": ["https://godomall.speedycdn.net/ec5d2a1c8483712efb957784c858b320/goods/1000008075/image/add3/1000008075_add3_019.jpg"]
 }
 
 # ======================
